@@ -1,0 +1,6 @@
+com/babakbelur/pupukkujangtest/databinding/ActivityMainBinding.java
+ com.babakbelur.pupukkujangtest.databinding.ActivityMainBinding
+com/babakbelur/pupukkujangtest/BuildConfig.java
+ com.babakbelur.pupukkujangtest.BuildConfig
+com/babakbelur/pupukkujangtest/MainActivity.java
+ com.babakbelur.pupukkujangtest.MainActivity
